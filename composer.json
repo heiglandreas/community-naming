@@ -1,6 +1,6 @@
 {
     "name": "org_heigl/community-naming",
-    "description": "Get namings by randomly adding atdectives to names of people of the PHP-Community",
+    "description": "Get namings by randomly adding adjectives to names of people of the PHP-Community",
     "type": "library",
     "license": "MIT",
     "authors": [
