@@ -7,7 +7,7 @@ So here it is
 
 ## Install
 
-Well... thanks to `amazing-aderman` and `brilliant-boggiano` you can include the librasry via 
+Well... thanks to `nifty-nils` and `jolly-jordi` you can include the library via 
 
 ```bash
 composer require org_heigl/community-names

@@ -25,5 +25,8 @@ trait Names
         'lukas', // Lukas Kawe Smith: Core contributor to the Symfony framework
         'fabien', // Fabien Potencier: Creator of the symfony framework
         'matthew', // Matthew Weier O'Phinney: Allied Commander of the Zend-Framework
+        'jordi', // Jordi Boggiano: Co-Creator and Maintainer of composer
+        'nils', // Nils Adermann: Co-Creator and Maintainer of composer
+        'damien', // Damien Seguy: ElelHPant-Herder
     ];
 }
