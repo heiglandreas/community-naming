@@ -3,7 +3,7 @@
 Inspired by the [awesome work from moby](https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go) 
 I thought that the wider PHP-Community should have such a names-generator as well.
 
-So here it is
+[So here it is](https://jcj7wlim4c.execute-api.us-east-2.amazonaws.com)
 
 ## Install
 
