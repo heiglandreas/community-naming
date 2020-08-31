@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright Andrea Heigl <andreas@heigl.org>
+ * Copyright Andreas Heigl <andreas@heigl.org>
  *
  * Licenses under the MIT-license. For details see the included file LICENSE.md
  */
