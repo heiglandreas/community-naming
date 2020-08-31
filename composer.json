@@ -14,5 +14,13 @@
         "psr-4": {
             "Org_Heigl\\CommunityNaming\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Org_Heigl\\CommunityNamingTest\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
     }
 }
