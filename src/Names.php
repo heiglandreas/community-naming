@@ -28,5 +28,6 @@ trait Names
         'jordi', // Jordi Boggiano: Co-Creator and Maintainer of composer
         'nils', // Nils Adermann: Co-Creator and Maintainer of composer
         'damien', // Damien Seguy: ElelHPant-Herder
+        'sebastian', // Sebastian Bergmann: Creator of PHPUnit
     ];
 }
